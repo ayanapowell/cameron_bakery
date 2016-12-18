@@ -1,8 +1,7 @@
 # Cameron's Bakery
 
-##### Epicodus Drupal Code Review 3
-
-#### By Diane Douglas
+##### Drupal site practicing custom theming
+#### By Ayana Powell
 
 ## Description
 
